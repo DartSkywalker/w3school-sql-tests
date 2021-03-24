@@ -1,0 +1,7 @@
+venv/
+.idea/
+.pytest_cache/
+tests/__pycache__
+utils/__pycache__
+pages/__pycache__
+pages/locators/__pycache__

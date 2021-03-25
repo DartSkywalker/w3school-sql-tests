@@ -5,3 +5,5 @@
 * `PyTest`
 * `Selenium`
 
+###### How to run:
+`project_folder $ > pytest -rp`
